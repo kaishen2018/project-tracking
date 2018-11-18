@@ -2,6 +2,7 @@
 > 只做项目跟踪
 
 ## 技术列表
+明细请查阅[wiki](https://github.com/kaishen2018/project-tracking/wiki)
 - [ ] DEVOPS 自动化部署运维平台
 - [ ] Spring Boot&Cloud/Java 构建核心服务
 - [ ] StrongLoop/NodeJS 快速构建产品
