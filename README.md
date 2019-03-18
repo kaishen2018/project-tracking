@@ -1,5 +1,5 @@
 # Project-tracking
-> 只做项目跟踪
+> 只做项目跟踪, 跟踪学习
 
 ## 技术列表
 明细请查阅[wiki](https://github.com/kaishen2018/project-tracking/wiki)
